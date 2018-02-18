@@ -1,0 +1,14 @@
+C:\Users\mighe\Documents\Visual Studio 2013\Projects\MikeLab - Copy\MikeLab_MicroJSON_NETF\bin\Debug\MikeLab_MicroJSON_NETF.dll
+C:\Users\mighe\Documents\Visual Studio 2013\Projects\MikeLab - Copy\MikeLab_MicroJSON_NETF\bin\Debug\MikeLab_MicroJSON_NETF.pdb
+C:\Users\mighe\Documents\Visual Studio 2013\Projects\MikeLab - Copy\MikeLab_MicroJSON_NETF\obj\Debug\MikeLab_MicroJSON_NETF.dll
+C:\Users\mighe\Documents\Visual Studio 2013\Projects\MikeLab - Copy\MikeLab_MicroJSON_NETF\obj\Debug\MikeLab_MicroJSON_NETF.pdb
+C:\Users\mighe\Documents\Visual Studio 2013\Projects\MikeLab\MikeLab_MicroJSON_NETF\bin\Debug\MikeLab_MicroJSON_NETF.dll
+C:\Users\mighe\Documents\Visual Studio 2013\Projects\MikeLab\MikeLab_MicroJSON_NETF\bin\Debug\MikeLab_MicroJSON_NETF.pdb
+C:\Users\mighe\Documents\Visual Studio 2013\Projects\MikeLab\MikeLab_MicroJSON_NETF\obj\Debug\MikeLab_MicroJSON_NETF.csprojResolveAssemblyReference.cache
+C:\Users\mighe\Documents\Visual Studio 2013\Projects\MikeLab\MikeLab_MicroJSON_NETF\obj\Debug\MikeLab_MicroJSON_NETF.dll
+C:\Users\mighe\Documents\Visual Studio 2013\Projects\MikeLab\MikeLab_MicroJSON_NETF\obj\Debug\MikeLab_MicroJSON_NETF.pdb
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_MicroJSON_NETF\bin\Debug\MikeLab_MicroJSON_NETF.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_MicroJSON_NETF\bin\Debug\MikeLab_MicroJSON_NETF.pdb
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_MicroJSON_NETF\obj\Debug\MikeLab_MicroJSON_NETF.csprojResolveAssemblyReference.cache
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_MicroJSON_NETF\obj\Debug\MikeLab_MicroJSON_NETF.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_MicroJSON_NETF\obj\Debug\MikeLab_MicroJSON_NETF.pdb

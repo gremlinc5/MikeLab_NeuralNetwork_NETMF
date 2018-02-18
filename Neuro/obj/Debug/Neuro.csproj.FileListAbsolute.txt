@@ -1,0 +1,9 @@
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Neuro\bin\Debug\AForge.Neuro.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Neuro\bin\Debug\AForge.Neuro.pdb
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Neuro\bin\Debug\AForge.Neuro.xml
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Neuro\bin\Debug\AForge.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Neuro\obj\Debug\Neuro.csprojResolveAssemblyReference.cache
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Neuro\obj\Debug\AForge.Neuro.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Neuro\obj\Debug\AForge.Neuro.pdb
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Neuro\bin\Debug\MikeLab_MicroJSON_NETF.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Neuro\bin\Debug\MikeLab_MicroJSON_NETF.pdb

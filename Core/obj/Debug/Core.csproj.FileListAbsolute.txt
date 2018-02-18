@@ -1,0 +1,6 @@
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Core\bin\Debug\AForge.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Core\bin\Debug\AForge.pdb
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Core\bin\Debug\AForge.Core.xml
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Core\obj\Debug\AForge.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Core\obj\Debug\AForge.pdb

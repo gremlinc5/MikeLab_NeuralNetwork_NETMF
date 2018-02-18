@@ -1,0 +1,13 @@
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\bin\Debug\MikeLab_DissociativeDisorderer.exe.config
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\bin\Debug\MikeLab_DissociativeDisorderer.exe
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\bin\Debug\MikeLab_DissociativeDisorderer.pdb
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\bin\Debug\AForge.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\bin\Debug\AForge.Neuro.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\bin\Debug\AForge.pdb
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\bin\Debug\AForge.Neuro.pdb
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\bin\Debug\AForge.Neuro.xml
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\obj\Debug\MikeLab_DissociativeDisorderer.csprojResolveAssemblyReference.cache
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\obj\Debug\MikeLab_DissociativeDisorderer.exe
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\obj\Debug\MikeLab_DissociativeDisorderer.pdb
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\bin\Debug\MikeLab_MicroJSON_NETF.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\MikeLab_DissociativeDisorderer\bin\Debug\MikeLab_MicroJSON_NETF.pdb

@@ -1,0 +1,9 @@
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Controls\bin\Debug\AForge.Controls.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Controls\bin\Debug\AForge.Controls.pdb
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Controls\bin\Debug\AForge.Controls.xml
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Controls\bin\Debug\AForge.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Controls\obj\Debug\Controls.csprojResolveAssemblyReference.cache
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Controls\obj\Debug\AForge.Controls.Chart.resources
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Controls\obj\Debug\AForge.Controls.dll
+C:\Users\mighe\Downloads\neuro_src\neuro_src\Sources\Controls\obj\Debug\AForge.Controls.pdb
